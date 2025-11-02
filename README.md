@@ -4,7 +4,7 @@
 
 | MCP2515 Pin | ESP32 Pin | Description |
 |--------------|------------|-------------|
-| VCC          | 5V         | Module power |
+| VCC          | 3.3V       | Module power |
 | GND          | GND        | Ground |
 | CS           | D15        | Chip select |
 | SCK          | D18        | SPI clock |
